@@ -3,7 +3,6 @@ var initialCats = [
       clickCount : 0,
       name : 'Fábio',
       imgSrc : 'img/gato.jpg',
-      imgAttribution : 'https://www.flickr.com/photos/bigtallguy/434164568',
       nicknames: ['Fábi', 'Xuxu'],
       title: ''
 
@@ -11,8 +10,7 @@ var initialCats = [
   {
       clickCount : 0,
       name : 'Vanessa',
-      imgSrc : 'img/gato.jpg',
-      imgAttribution : 'https://www.flickr.com/photos/xshamx/4154543904',
+      imgSrc :'http://cdn.cutestpaw.com/wp-content/uploads/2011/11/cute-cat-l.jpg',
       nicknames: ['Fábi', 'Xuxu'],
       title: ''
 
